@@ -1,6 +1,6 @@
 public class Example_28 {
     public static void main(String[] args) {
-        System.out.println(sumPrimes(10));
+        System.out.println(sumPrimes(100));
     }
     // Calculate the sum of first 100 prime numbers and return them in an array
     public static boolean isPrime(int prime) {
